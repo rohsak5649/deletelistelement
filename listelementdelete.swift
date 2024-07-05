@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  ListView
-//
-//  Created by Rohan Sakhare on 29/02/24.
-//
+
 
 import SwiftUI
 
